@@ -1,0 +1,26 @@
+[0.480s] Invoking command in '/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/src/super_sultan_pub_sub_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/super_sultan_pub_sub_pkg build --build-base /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/build install --record /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/install.log --single-version-externally-managed install_data
+[0.644s] running egg_info
+[0.655s] writing ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/PKG-INFO
+[0.655s] writing dependency_links to ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/dependency_links.txt
+[0.655s] writing entry points to ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/entry_points.txt
+[0.655s] writing requirements to ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/requires.txt
+[0.655s] writing top-level names to ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/top_level.txt
+[0.677s] reading manifest file '../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/SOURCES.txt'
+[0.678s] writing manifest file '../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info/SOURCES.txt'
+[0.678s] running build
+[0.678s] running build_py
+[0.678s] copying super_sultan_pub_sub_pkg/even_number_publisher.py -> /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/build/lib/super_sultan_pub_sub_pkg
+[0.678s] running install
+[0.683s] running install_lib
+[0.693s] copying /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/build/lib/super_sultan_pub_sub_pkg/even_number_publisher.py -> /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages/super_sultan_pub_sub_pkg
+[0.694s] byte-compiling /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages/super_sultan_pub_sub_pkg/even_number_publisher.py to even_number_publisher.cpython-312.pyc
+[0.694s] running install_data
+[0.694s] running install_egg_info
+[0.706s] removing '/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages/super_sultan_pub_sub_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.707s] Copying ../../build/super_sultan_pub_sub_pkg/super_sultan_pub_sub_pkg.egg-info to /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages/super_sultan_pub_sub_pkg-0.0.0-py3.12.egg-info
+[0.707s] running install_scripts
+[0.784s] Installing even_pub script to /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/super_sultan_pub_sub_pkg
+[0.784s] Installing listener script to /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/super_sultan_pub_sub_pkg
+[0.784s] Installing talker script to /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/super_sultan_pub_sub_pkg
+[0.784s] writing list of installed files to '/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/install.log'
+[0.803s] Invoked command in '/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/src/super_sultan_pub_sub_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/install/super_sultan_pub_sub_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/super_sultan_pub_sub_pkg build --build-base /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/build install --record /home/sultan/ros_labs/super_sultan_ros_labs/lab_02_pub_sub/ros2_ws/build/super_sultan_pub_sub_pkg/install.log --single-version-externally-managed install_data
