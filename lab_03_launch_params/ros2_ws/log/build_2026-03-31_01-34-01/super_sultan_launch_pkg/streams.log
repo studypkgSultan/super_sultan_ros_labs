@@ -1,0 +1,23 @@
+[0.482s] Invoking command in '/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/src/super_sultan_launch_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/super_sultan_launch_pkg build --build-base /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/build install --record /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/install.log --single-version-externally-managed install_data
+[0.646s] running egg_info
+[0.657s] writing ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/PKG-INFO
+[0.657s] writing dependency_links to ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/dependency_links.txt
+[0.657s] writing entry points to ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/entry_points.txt
+[0.657s] writing requirements to ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/requires.txt
+[0.657s] writing top-level names to ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/top_level.txt
+[0.680s] reading manifest file '../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/SOURCES.txt'
+[0.680s] writing manifest file '../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info/SOURCES.txt'
+[0.680s] running build
+[0.680s] running build_py
+[0.681s] running install
+[0.685s] running install_lib
+[0.697s] running install_data
+[0.697s] copying launch/robot_system.launch.py -> /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/share/super_sultan_launch_pkg/launch
+[0.697s] running install_egg_info
+[0.709s] removing '/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/python3.12/site-packages/super_sultan_launch_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.709s] Copying ../../build/super_sultan_launch_pkg/super_sultan_launch_pkg.egg-info to /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/python3.12/site-packages/super_sultan_launch_pkg-0.0.0-py3.12.egg-info
+[0.710s] running install_scripts
+[0.794s] Installing even_number_publisher script to /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/super_sultan_launch_pkg
+[0.794s] Installing overflow_listener script to /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/super_sultan_launch_pkg
+[0.795s] writing list of installed files to '/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/install.log'
+[0.819s] Invoked command in '/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/src/super_sultan_launch_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/install/super_sultan_launch_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/super_sultan_launch_pkg build --build-base /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/build install --record /home/sultan/ros_labs/super_sultan_ros_labs/lab_03_launch_params/ros2_ws/build/super_sultan_launch_pkg/install.log --single-version-externally-managed install_data
