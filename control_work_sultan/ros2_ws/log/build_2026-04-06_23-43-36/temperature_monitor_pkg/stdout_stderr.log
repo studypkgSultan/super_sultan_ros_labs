@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info
+writing ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/requires.txt
+writing top-level names to ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/top_level.txt
+writing manifest file '../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg
+copying temperature_monitor_pkg/temperature_sensor.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg
+copying temperature_monitor_pkg/__init__.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg
+copying temperature_monitor_pkg/temperature_monitor.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg
+running install
+running install_lib
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg
+copying /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg/temperature_sensor.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg
+copying /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg/__init__.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg
+copying /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/build/lib/temperature_monitor_pkg/temperature_monitor.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg
+byte-compiling /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg/temperature_sensor.py to temperature_sensor.cpython-312.pyc
+byte-compiling /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg/temperature_monitor.py to temperature_monitor.cpython-312.pyc
+running install_data
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/ament_index
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/ament_index/resource_index
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/ament_index/resource_index/packages
+copying resource/temperature_monitor_pkg -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/temperature_monitor_pkg
+creating /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/temperature_monitor_pkg/launch
+copying launch/temperature_system.launch.py -> /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/share/temperature_monitor_pkg/launch
+running install_egg_info
+Copying ../../build/temperature_monitor_pkg/temperature_monitor_pkg.egg-info to /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/python3.12/site-packages/temperature_monitor_pkg-0.0.0-py3.12.egg-info
+running install_scripts
+Installing temperature_monitor script to /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/temperature_monitor_pkg
+Installing temperature_sensor script to /home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/install/temperature_monitor_pkg/lib/temperature_monitor_pkg
+writing list of installed files to '/home/sultan/ros_labs/super_sultan_ros_labs/control_work_sultan/ros2_ws/build/temperature_monitor_pkg/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+temperature_monitor = temperature_monitor_pkg.temperature_monitor:main
+temperature_sensor = temperature_monitor_pkg.temperature_sensor:main

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: temperature-monitor-pkg
+Version: 0.0.0
+Summary: Temperature monitoring system for ROS 2
+Maintainer: Sultan
+Maintainer-email: sultan@example.com
+License: Apache-2.0
